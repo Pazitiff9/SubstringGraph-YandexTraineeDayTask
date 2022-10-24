@@ -1,0 +1,1 @@
+# SubstringGraph-YandexTraineeDayTask
